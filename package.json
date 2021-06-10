@@ -28,6 +28,6 @@
   ],
   "dependencies": {
     "json-schema-faker": "*",
-    "trim": "0.0.1"
+    "trim": "^0.0.3"
   }
 }
